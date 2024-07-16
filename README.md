@@ -1,11 +1,24 @@
 # banner_nicou11
 
+```
+    _   ___                 ______
+   / | / (_)________  __  _<  <  /
+  /  |/ / / ___/ __ \/ / / / // /
+ / /|  / / /__/ /_/ / /_/ / // /
+/_/ |_/_/\___/\____/\__,_/_//_/
+```
+
+## **Install**
+```
+$ pip install banner_nicou11
+```
+
 ## **Usage**
 
-In Python type:
+type:
 ```
 $ show-banner
 ```
 
-## **License**
-https://github.com/Nicou11/pyfiglet
+## **Reference**
+https://github.com/pwaller/pyfiglet
