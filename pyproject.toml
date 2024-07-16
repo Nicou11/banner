@@ -17,3 +17,7 @@ show-banner = 'banner_nicou11.banner:show'
 
 [tool.pdm]
 distribution = true
+
+[project.urls]
+Homepage = "https://github.com/nicou11/banner"
+Issues = "https://github.com/nicou11/banner/issues"
