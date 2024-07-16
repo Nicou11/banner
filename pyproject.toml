@@ -1,6 +1,6 @@
 [project]
 name = "banner_nicou11"
-version = "0.2.0"
+version = "0.3.0"
 description = "Default template for PDM package"
 authors = [
     {name = "Nicou11", email = "lyoungin1204@gmail.com"},
@@ -8,7 +8,7 @@ authors = [
 dependencies = [
     "pyfiglet>=1.0.2",
 ]
-requires-python = ">=3.9"
+requires-python = "==3.11.*"
 readme = "README.md"
 license = {text = "MIT"}
 
